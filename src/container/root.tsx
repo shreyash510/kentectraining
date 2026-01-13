@@ -1,20 +1,23 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
-import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { createDrawerNavigator } from '@react-navigation/drawer';
 import Home from '../pages/home';
+import Settings from '../pages/settings';
 
-export type RootStackParamList = {
+export type DrawerParamList = {
   Home: undefined;
+  Settings: undefined;
 };
 
-const Stack = createNativeStackNavigator<RootStackParamList>();
+const Drawer = createDrawerNavigator<DrawerParamList>();
 
 const Root = () => {
   return (
     <NavigationContainer>
-      <Stack.Navigator initialRouteName="Home">
-        <Stack.Screen name="Home" component={Home} />
-      </Stack.Navigator>
+      <Drawer.Navigator initialRouteName="Home">
+        <Drawer.Screen name="Home" component={Home} />
+        <Drawer.Screen name="Settings" component={Settings} />
+      </Drawer.Navigator>
     </NavigationContainer>
   );
 };
