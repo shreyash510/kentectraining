@@ -1,0 +1,2034 @@
+{
+  "contentType": "homePage",
+  "name": "Home",
+  "createDate": "2023-07-20T15:54:22Z",
+  "updateDate": "2025-07-17T14:45:35.297Z",
+  "route": {
+    "path": "/",
+    "startItem": {
+      "id": "cd7a41f3-ff91-4ec3-b45a-14b58f305745",
+      "path": "home"
+    }
+  },
+  "id": "cd7a41f3-ff91-4ec3-b45a-14b58f305745",
+  "properties": {
+    "listingTitle": "Or select from our course categories",
+    "listingExcerpt": null,
+    "listingImage": {
+      "items": [
+        {
+          "content": {
+            "contentType": "imageWithAlt",
+            "id": "fca4179b-2561-4270-a69c-ada91e9d43f7",
+            "properties": {
+              "image": [],
+              "altTag": "Many hands"
+            }
+          },
+          "settings": null
+        }
+      ]
+    },
+    "simpleHeader": false,
+    "metaTitle": "IPAF, PASMA, SSSTS, SMSTS, IOSH Courses | Kentec Training",
+    "metaDescription": "We listen to your needs to create and deliver training solutions that meet your statutory, strategic and operational objectives. Find more information here!",
+    "searchEngineRelativePriority": null,
+    "searchEngineChangeFrequency": null,
+    "hideFromSiteMap": false,
+    "oGMetaTitle": null,
+    "oGMetaDescription": null,
+    "oGMetaImage": null,
+    "banner": {
+      "items": [
+        {
+          "content": {
+            "contentType": "homepageMasthead",
+            "id": "015150b4-4e64-499b-aa7f-7d845dea5f73",
+            "properties": {
+              "title": "Training you can trust with Kentec!",
+              "description": "Setting the standards in health & safety training across the UK!",
+              "image": [
+                {
+                  "focalPoint": null,
+                  "crops": [
+                    {
+                      "alias": "square",
+                      "width": 135,
+                      "height": 74,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "homepagemasthead",
+                      "width": 2136,
+                      "height": 1616,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "iconsmall",
+                      "width": 51,
+                      "height": 51,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "accreditationlogo",
+                      "width": 120,
+                      "height": 140,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "mastheaddesktop",
+                      "width": 1680,
+                      "height": 416,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "mastheadmobile",
+                      "width": 390,
+                      "height": 220,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "featureblockicon",
+                      "width": 50,
+                      "height": 50,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "twocolumnimageone",
+                      "width": 616,
+                      "height": 390,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "twocolumnimagetwo",
+                      "width": 616,
+                      "height": 316,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "teamMemberImage",
+                      "width": 290,
+                      "height": 290,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "newsCard",
+                      "width": 270,
+                      "height": 139,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "newsMasthead",
+                      "width": 1100,
+                      "height": 560,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "courseMastheadlogo",
+                      "width": 180,
+                      "height": 90,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "courseRighthandMasthead",
+                      "width": 610,
+                      "height": 345,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "newArticleMasthead",
+                      "width": 4385,
+                      "height": 2255,
+                      "coordinates": null
+                    }
+                  ],
+                  "id": "aba1fec7-7b40-449f-9001-19498c1be65a",
+                  "name": "Masthead Image",
+                  "mediaType": "Image",
+                  "url": "/media/yh5kdk0a/masthead-mobile.jpg",
+                  "extension": "jpg",
+                  "width": 2136,
+                  "height": 1616,
+                  "bytes": 98883,
+                  "properties": {}
+                }
+              ],
+              "sliderTitle": "Or select from our course categories",
+              "sliderCourseCards": {
+                "items": [
+                  {
+                    "content": {
+                      "contentType": "ourCourseCard",
+                      "id": "7250f030-fd2c-46f4-87ee-2c47d48ef2ea",
+                      "properties": {
+                        "courseTypeImage": [
+                          {
+                            "focalPoint": null,
+                            "crops": [
+                              {
+                                "alias": "square",
+                                "width": 135,
+                                "height": 74,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "homepagemasthead",
+                                "width": 2136,
+                                "height": 1616,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "iconsmall",
+                                "width": 51,
+                                "height": 51,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "accreditationlogo",
+                                "width": 120,
+                                "height": 140,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheaddesktop",
+                                "width": 1680,
+                                "height": 416,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheadmobile",
+                                "width": 390,
+                                "height": 220,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "featureblockicon",
+                                "width": 50,
+                                "height": 50,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimageone",
+                                "width": 616,
+                                "height": 390,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimagetwo",
+                                "width": 616,
+                                "height": 316,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "teamMemberImage",
+                                "width": 290,
+                                "height": 290,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsCard",
+                                "width": 270,
+                                "height": 139,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsMasthead",
+                                "width": 1100,
+                                "height": 560,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseMastheadlogo",
+                                "width": 180,
+                                "height": 90,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseRighthandMasthead",
+                                "width": 610,
+                                "height": 345,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newArticleMasthead",
+                                "width": 4385,
+                                "height": 2255,
+                                "coordinates": null
+                              }
+                            ],
+                            "id": "dbc37070-1e7e-4653-8743-097207f2dacf",
+                            "name": "Workplacesafetycourses Greycoursecategoryimage V1 01 (2)",
+                            "mediaType": "Image",
+                            "url": "/media/ozymhw14/workplacesafetycourses_greycoursecategoryimage_v1-01-2.jpg",
+                            "extension": "jpg",
+                            "width": 627,
+                            "height": 360,
+                            "bytes": 46664,
+                            "properties": {}
+                          }
+                        ],
+                        "courseTypeName": "Health & Safety",
+                        "cTALink": [
+                          {
+                            "url": null,
+                            "queryString": null,
+                            "title": "Explore courses",
+                            "target": null,
+                            "destinationId": "2a6c7921-007a-49bf-8ddb-774ba5a9266b",
+                            "destinationType": "courseType",
+                            "route": {
+                              "path": "/our-courses/health-safety/",
+                              "startItem": {
+                                "id": "cd7a41f3-ff91-4ec3-b45a-14b58f305745",
+                                "path": "home"
+                              }
+                            },
+                            "linkType": "Content"
+                          }
+                        ]
+                      }
+                    },
+                    "settings": null
+                  },
+                  {
+                    "content": {
+                      "contentType": "ourCourseCard",
+                      "id": "f4188b33-ca19-4501-b44a-2608158e20db",
+                      "properties": {
+                        "courseTypeImage": [
+                          {
+                            "focalPoint": null,
+                            "crops": [
+                              {
+                                "alias": "square",
+                                "width": 135,
+                                "height": 74,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "homepagemasthead",
+                                "width": 2136,
+                                "height": 1616,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "iconsmall",
+                                "width": 51,
+                                "height": 51,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "accreditationlogo",
+                                "width": 120,
+                                "height": 140,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheaddesktop",
+                                "width": 1680,
+                                "height": 416,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheadmobile",
+                                "width": 390,
+                                "height": 220,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "featureblockicon",
+                                "width": 50,
+                                "height": 50,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimageone",
+                                "width": 616,
+                                "height": 390,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimagetwo",
+                                "width": 616,
+                                "height": 316,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "teamMemberImage",
+                                "width": 290,
+                                "height": 290,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsCard",
+                                "width": 270,
+                                "height": 139,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsMasthead",
+                                "width": 1100,
+                                "height": 560,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseMastheadlogo",
+                                "width": 180,
+                                "height": 90,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseRighthandMasthead",
+                                "width": 610,
+                                "height": 345,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newArticleMasthead",
+                                "width": 4385,
+                                "height": 2255,
+                                "coordinates": null
+                              }
+                            ],
+                            "id": "6512ed71-b9ec-485d-a122-663fa23d70e4",
+                            "name": "Workplacesafetycourses Greycoursecategoryimage V1 01 (3)",
+                            "mediaType": "Image",
+                            "url": "/media/o5wbezpm/workplacesafetycourses_greycoursecategoryimage_v1-01-3.jpg",
+                            "extension": "jpg",
+                            "width": 628,
+                            "height": 360,
+                            "bytes": 75007,
+                            "properties": {}
+                          }
+                        ],
+                        "courseTypeName": "Working at height",
+                        "cTALink": [
+                          {
+                            "url": null,
+                            "queryString": null,
+                            "title": "Explore courses",
+                            "target": null,
+                            "destinationId": "89c74e4f-18a4-4a77-a46b-054844688bf4",
+                            "destinationType": "courseType",
+                            "route": {
+                              "path": "/our-courses/working-at-height/",
+                              "startItem": {
+                                "id": "cd7a41f3-ff91-4ec3-b45a-14b58f305745",
+                                "path": "home"
+                              }
+                            },
+                            "linkType": "Content"
+                          }
+                        ]
+                      }
+                    },
+                    "settings": null
+                  },
+                  {
+                    "content": {
+                      "contentType": "ourCourseCard",
+                      "id": "1a847483-0b37-4cce-a934-5850a7f1ff6c",
+                      "properties": {
+                        "courseTypeImage": [
+                          {
+                            "focalPoint": null,
+                            "crops": [
+                              {
+                                "alias": "square",
+                                "width": 135,
+                                "height": 74,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "homepagemasthead",
+                                "width": 2136,
+                                "height": 1616,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "iconsmall",
+                                "width": 51,
+                                "height": 51,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "accreditationlogo",
+                                "width": 120,
+                                "height": 140,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheaddesktop",
+                                "width": 1680,
+                                "height": 416,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheadmobile",
+                                "width": 390,
+                                "height": 220,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "featureblockicon",
+                                "width": 50,
+                                "height": 50,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimageone",
+                                "width": 616,
+                                "height": 390,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimagetwo",
+                                "width": 616,
+                                "height": 316,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "teamMemberImage",
+                                "width": 290,
+                                "height": 290,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsCard",
+                                "width": 270,
+                                "height": 139,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsMasthead",
+                                "width": 1100,
+                                "height": 560,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseMastheadlogo",
+                                "width": 180,
+                                "height": 90,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseRighthandMasthead",
+                                "width": 610,
+                                "height": 345,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newArticleMasthead",
+                                "width": 4385,
+                                "height": 2255,
+                                "coordinates": null
+                              }
+                            ],
+                            "id": "e54d46f0-5ec5-4190-9fa2-189a1a094233",
+                            "name": "Workplacesafetycourses Greycoursecategoryimage V1 01 (4)",
+                            "mediaType": "Image",
+                            "url": "/media/4zde1zof/workplacesafetycourses_greycoursecategoryimage_v1-01-4.jpg",
+                            "extension": "jpg",
+                            "width": 628,
+                            "height": 360,
+                            "bytes": 65174,
+                            "properties": {}
+                          }
+                        ],
+                        "courseTypeName": "Workplace safety",
+                        "cTALink": [
+                          {
+                            "url": null,
+                            "queryString": null,
+                            "title": "Explore courses",
+                            "target": null,
+                            "destinationId": "1e76d404-cf00-4cb9-9b85-a6a041f678f4",
+                            "destinationType": "courseType",
+                            "route": {
+                              "path": "/our-courses/workplace-safety/",
+                              "startItem": {
+                                "id": "cd7a41f3-ff91-4ec3-b45a-14b58f305745",
+                                "path": "home"
+                              }
+                            },
+                            "linkType": "Content"
+                          }
+                        ]
+                      }
+                    },
+                    "settings": null
+                  },
+                  {
+                    "content": {
+                      "contentType": "ourCourseCard",
+                      "id": "5e654184-243c-4809-9f34-03e7cd5fbcf5",
+                      "properties": {
+                        "courseTypeImage": [
+                          {
+                            "focalPoint": null,
+                            "crops": [
+                              {
+                                "alias": "square",
+                                "width": 135,
+                                "height": 74,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "homepagemasthead",
+                                "width": 2136,
+                                "height": 1616,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "iconsmall",
+                                "width": 51,
+                                "height": 51,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "accreditationlogo",
+                                "width": 120,
+                                "height": 140,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheaddesktop",
+                                "width": 1680,
+                                "height": 416,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheadmobile",
+                                "width": 390,
+                                "height": 220,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "featureblockicon",
+                                "width": 50,
+                                "height": 50,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimageone",
+                                "width": 616,
+                                "height": 390,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimagetwo",
+                                "width": 616,
+                                "height": 316,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "teamMemberImage",
+                                "width": 290,
+                                "height": 290,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsCard",
+                                "width": 270,
+                                "height": 139,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsMasthead",
+                                "width": 1100,
+                                "height": 560,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseMastheadlogo",
+                                "width": 180,
+                                "height": 90,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseRighthandMasthead",
+                                "width": 610,
+                                "height": 345,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newArticleMasthead",
+                                "width": 4385,
+                                "height": 2255,
+                                "coordinates": null
+                              }
+                            ],
+                            "id": "8103c078-ca69-4991-bebf-5ce1f1cc33b8",
+                            "name": "Workplacesafetycourses Greycoursecategoryimage V1 01 (5)",
+                            "mediaType": "Image",
+                            "url": "/media/p1aahalj/workplacesafetycourses_greycoursecategoryimage_v1-01-5.jpg",
+                            "extension": "jpg",
+                            "width": 628,
+                            "height": 360,
+                            "bytes": 75362,
+                            "properties": {}
+                          }
+                        ],
+                        "courseTypeName": "Plant & Machinery",
+                        "cTALink": [
+                          {
+                            "url": null,
+                            "queryString": null,
+                            "title": "Plant & Machinery",
+                            "target": null,
+                            "destinationId": "3a253c5f-0d2b-4bc7-a80f-558fc75f67ad",
+                            "destinationType": "courseType",
+                            "route": {
+                              "path": "/our-courses/plant-machinery/",
+                              "startItem": {
+                                "id": "cd7a41f3-ff91-4ec3-b45a-14b58f305745",
+                                "path": "home"
+                              }
+                            },
+                            "linkType": "Content"
+                          }
+                        ]
+                      }
+                    },
+                    "settings": null
+                  },
+                  {
+                    "content": {
+                      "contentType": "ourCourseCard",
+                      "id": "086c2e28-0613-4a62-8caa-6e3eb173b79b",
+                      "properties": {
+                        "courseTypeImage": [
+                          {
+                            "focalPoint": null,
+                            "crops": [
+                              {
+                                "alias": "square",
+                                "width": 135,
+                                "height": 74,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "homepagemasthead",
+                                "width": 2136,
+                                "height": 1616,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "iconsmall",
+                                "width": 51,
+                                "height": 51,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "accreditationlogo",
+                                "width": 120,
+                                "height": 140,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheaddesktop",
+                                "width": 1680,
+                                "height": 416,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheadmobile",
+                                "width": 390,
+                                "height": 220,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "featureblockicon",
+                                "width": 50,
+                                "height": 50,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimageone",
+                                "width": 616,
+                                "height": 390,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimagetwo",
+                                "width": 616,
+                                "height": 316,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "teamMemberImage",
+                                "width": 290,
+                                "height": 290,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsCard",
+                                "width": 270,
+                                "height": 139,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsMasthead",
+                                "width": 1100,
+                                "height": 560,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseMastheadlogo",
+                                "width": 180,
+                                "height": 90,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseRighthandMasthead",
+                                "width": 610,
+                                "height": 345,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newArticleMasthead",
+                                "width": 4385,
+                                "height": 2255,
+                                "coordinates": null
+                              }
+                            ],
+                            "id": "967ff1b4-5d79-4084-91f0-fd21af893024",
+                            "name": "Firstaidcourses Greycoursecategoryimage V1 01",
+                            "mediaType": "Image",
+                            "url": "/media/wlyh5ftz/firstaidcourses_greycoursecategoryimage_v1-01.jpg",
+                            "extension": "jpg",
+                            "width": 8000,
+                            "height": 4500,
+                            "bytes": 697409,
+                            "properties": {}
+                          }
+                        ],
+                        "courseTypeName": "First Aid",
+                        "cTALink": [
+                          {
+                            "url": null,
+                            "queryString": null,
+                            "title": "Explore courses",
+                            "target": null,
+                            "destinationId": "eaaf9402-9f23-42cc-b433-c8eef5d079d8",
+                            "destinationType": "courseType",
+                            "route": {
+                              "path": "/our-courses/first-aid/",
+                              "startItem": {
+                                "id": "cd7a41f3-ff91-4ec3-b45a-14b58f305745",
+                                "path": "home"
+                              }
+                            },
+                            "linkType": "Content"
+                          }
+                        ]
+                      }
+                    },
+                    "settings": null
+                  },
+                  {
+                    "content": {
+                      "contentType": "ourCourseCard",
+                      "id": "c4ad77ea-7817-4b3a-83c6-acaaa86be22f",
+                      "properties": {
+                        "courseTypeImage": [
+                          {
+                            "focalPoint": null,
+                            "crops": [
+                              {
+                                "alias": "square",
+                                "width": 135,
+                                "height": 74,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "homepagemasthead",
+                                "width": 2136,
+                                "height": 1616,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "iconsmall",
+                                "width": 51,
+                                "height": 51,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "accreditationlogo",
+                                "width": 120,
+                                "height": 140,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheaddesktop",
+                                "width": 1680,
+                                "height": 416,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheadmobile",
+                                "width": 390,
+                                "height": 220,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "featureblockicon",
+                                "width": 50,
+                                "height": 50,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimageone",
+                                "width": 616,
+                                "height": 390,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimagetwo",
+                                "width": 616,
+                                "height": 316,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "teamMemberImage",
+                                "width": 290,
+                                "height": 290,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsCard",
+                                "width": 270,
+                                "height": 139,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsMasthead",
+                                "width": 1100,
+                                "height": 560,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseMastheadlogo",
+                                "width": 180,
+                                "height": 90,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseRighthandMasthead",
+                                "width": 610,
+                                "height": 345,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newArticleMasthead",
+                                "width": 4385,
+                                "height": 2255,
+                                "coordinates": null
+                              }
+                            ],
+                            "id": "dc1c34d9-6305-470c-8a01-b120ef3364aa",
+                            "name": "Forkliftcourses Greycoursecategoryimage V1 01",
+                            "mediaType": "Image",
+                            "url": "/media/120bzxaf/forkliftcourses_greycoursecategoryimage_v1-01.jpg",
+                            "extension": "jpg",
+                            "width": 8000,
+                            "height": 4500,
+                            "bytes": 669149,
+                            "properties": {}
+                          }
+                        ],
+                        "courseTypeName": "Forklift",
+                        "cTALink": [
+                          {
+                            "url": null,
+                            "queryString": null,
+                            "title": "Explore courses",
+                            "target": null,
+                            "destinationId": "057e6ab6-3f7e-4570-a0f0-0e828ea5e73a",
+                            "destinationType": "courseType",
+                            "route": {
+                              "path": "/our-courses/forklift/",
+                              "startItem": {
+                                "id": "cd7a41f3-ff91-4ec3-b45a-14b58f305745",
+                                "path": "home"
+                              }
+                            },
+                            "linkType": "Content"
+                          }
+                        ]
+                      }
+                    },
+                    "settings": null
+                  },
+                  {
+                    "content": {
+                      "contentType": "ourCourseCard",
+                      "id": "200c739e-2476-4904-8264-57abda18afeb",
+                      "properties": {
+                        "courseTypeImage": [
+                          {
+                            "focalPoint": null,
+                            "crops": [
+                              {
+                                "alias": "square",
+                                "width": 135,
+                                "height": 74,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "homepagemasthead",
+                                "width": 2136,
+                                "height": 1616,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "iconsmall",
+                                "width": 51,
+                                "height": 51,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "accreditationlogo",
+                                "width": 120,
+                                "height": 140,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheaddesktop",
+                                "width": 1680,
+                                "height": 416,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheadmobile",
+                                "width": 390,
+                                "height": 220,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "featureblockicon",
+                                "width": 50,
+                                "height": 50,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimageone",
+                                "width": 616,
+                                "height": 390,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimagetwo",
+                                "width": 616,
+                                "height": 316,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "teamMemberImage",
+                                "width": 290,
+                                "height": 290,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsCard",
+                                "width": 270,
+                                "height": 139,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsMasthead",
+                                "width": 1100,
+                                "height": 560,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseMastheadlogo",
+                                "width": 180,
+                                "height": 90,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseRighthandMasthead",
+                                "width": 610,
+                                "height": 345,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newArticleMasthead",
+                                "width": 4385,
+                                "height": 2255,
+                                "coordinates": null
+                              }
+                            ],
+                            "id": "07f15d6b-fef9-4e2f-b245-83b9f3da6d96",
+                            "name": "Facefitcourses Greycoursecategoryimage V1 01",
+                            "mediaType": "Image",
+                            "url": "/media/nvopcb5z/facefitcourses_greycoursecategoryimage_v1-01.jpg",
+                            "extension": "jpg",
+                            "width": 8000,
+                            "height": 4500,
+                            "bytes": 704111,
+                            "properties": {}
+                          }
+                        ],
+                        "courseTypeName": "Face fit",
+                        "cTALink": [
+                          {
+                            "url": null,
+                            "queryString": null,
+                            "title": "Explore courses",
+                            "target": null,
+                            "destinationId": "b0ecaab3-dd5b-4aca-8f81-83f8d77c0939",
+                            "destinationType": "courseType",
+                            "route": {
+                              "path": "/our-courses/face-fit/",
+                              "startItem": {
+                                "id": "cd7a41f3-ff91-4ec3-b45a-14b58f305745",
+                                "path": "home"
+                              }
+                            },
+                            "linkType": "Content"
+                          }
+                        ]
+                      }
+                    },
+                    "settings": null
+                  }
+                ]
+              }
+            }
+          },
+          "settings": null
+        }
+      ]
+    },
+    "primaryBlocks": {
+      "items": [
+        {
+          "content": {
+            "contentType": "coursesSlider",
+            "id": "2afb18c1-db40-475b-a167-6bfcfda1d54a",
+            "properties": {
+              "title": "Our popular courses",
+              "cTAText": null,
+              "cTALink": null
+            }
+          },
+          "settings": null
+        },
+        {
+          "content": {
+            "contentType": "offerBlock",
+            "id": "62a48712-d515-4ae9-b755-a38ef3b9a038",
+            "properties": {
+              "icon": [
+                {
+                  "focalPoint": null,
+                  "crops": [
+                    {
+                      "alias": "square",
+                      "width": 135,
+                      "height": 74,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "homepagemasthead",
+                      "width": 2136,
+                      "height": 1616,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "iconsmall",
+                      "width": 51,
+                      "height": 51,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "accreditationlogo",
+                      "width": 120,
+                      "height": 140,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "mastheaddesktop",
+                      "width": 1680,
+                      "height": 416,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "mastheadmobile",
+                      "width": 390,
+                      "height": 220,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "featureblockicon",
+                      "width": 50,
+                      "height": 50,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "twocolumnimageone",
+                      "width": 616,
+                      "height": 390,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "twocolumnimagetwo",
+                      "width": 616,
+                      "height": 316,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "teamMemberImage",
+                      "width": 290,
+                      "height": 290,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "newsCard",
+                      "width": 270,
+                      "height": 139,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "newsMasthead",
+                      "width": 1100,
+                      "height": 560,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "courseMastheadlogo",
+                      "width": 180,
+                      "height": 90,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "courseRighthandMasthead",
+                      "width": 610,
+                      "height": 345,
+                      "coordinates": null
+                    },
+                    {
+                      "alias": "newArticleMasthead",
+                      "width": 4385,
+                      "height": 2255,
+                      "coordinates": null
+                    }
+                  ],
+                  "id": "5919c34b-fb7c-4ed2-82e1-e46c203cf858",
+                  "name": "Kentec Calendar Linear",
+                  "mediaType": "umbracoMediaVectorGraphics",
+                  "url": "/media/plbbswl2/kentec-calendar-linear.svg",
+                  "extension": "svg",
+                  "width": null,
+                  "height": null,
+                  "bytes": 939,
+                  "properties": {}
+                }
+              ],
+              "title": "Our Latest Booking Offers",
+              "text": "Please see our latest offers and last minute spaces.",
+              "textBold": "Book your places now to avoid disappointment!",
+              "cTATitle": "View all booking offers",
+              "cTALink": [
+                {
+                  "url": null,
+                  "queryString": null,
+                  "title": "View all booking offers",
+                  "target": null,
+                  "destinationId": "8b6e3f69-8192-4cf6-a795-11aa6a46fc33",
+                  "destinationType": "bookingOffers",
+                  "route": {
+                    "path": "/booking-offers/",
+                    "startItem": {
+                      "id": "cd7a41f3-ff91-4ec3-b45a-14b58f305745",
+                      "path": "home"
+                    }
+                  },
+                  "linkType": "Content"
+                }
+              ]
+            }
+          },
+          "settings": null
+        },
+        {
+          "content": {
+            "contentType": "whyChooseKentec",
+            "id": "e3a31328-b848-479e-83c6-d1dfadf79dc5",
+            "properties": {
+              "headingOne": "Why Choose",
+              "youtubeUrl": null,
+              "headingTwo": "Kentec Training",
+              "iconText": {
+                "items": [
+                  {
+                    "content": {
+                      "contentType": "iconWithDescription",
+                      "id": "760817d1-ab7d-4629-a575-058d559bdb52",
+                      "properties": {
+                        "icon": [
+                          {
+                            "focalPoint": null,
+                            "crops": [
+                              {
+                                "alias": "square",
+                                "width": 135,
+                                "height": 74,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "homepagemasthead",
+                                "width": 2136,
+                                "height": 1616,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "iconsmall",
+                                "width": 51,
+                                "height": 51,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "accreditationlogo",
+                                "width": 120,
+                                "height": 140,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheaddesktop",
+                                "width": 1680,
+                                "height": 416,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheadmobile",
+                                "width": 390,
+                                "height": 220,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "featureblockicon",
+                                "width": 50,
+                                "height": 50,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimageone",
+                                "width": 616,
+                                "height": 390,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimagetwo",
+                                "width": 616,
+                                "height": 316,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "teamMemberImage",
+                                "width": 290,
+                                "height": 290,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsCard",
+                                "width": 270,
+                                "height": 139,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsMasthead",
+                                "width": 1100,
+                                "height": 560,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseMastheadlogo",
+                                "width": 180,
+                                "height": 90,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseRighthandMasthead",
+                                "width": 610,
+                                "height": 345,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newArticleMasthead",
+                                "width": 4385,
+                                "height": 2255,
+                                "coordinates": null
+                              }
+                            ],
+                            "id": "12e38ac7-606f-46ca-b368-4512c4b0e3b8",
+                            "name": "Hugeicons Honour Star",
+                            "mediaType": "umbracoMediaVectorGraphics",
+                            "url": "/media/40fogetp/hugeicons_honour-star.svg",
+                            "extension": "svg",
+                            "width": null,
+                            "height": null,
+                            "bytes": 902,
+                            "properties": {}
+                          }
+                        ],
+                        "title": "Quality of service",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla mi lacinia orci venenatis porta eu sit amet erat."
+                      }
+                    },
+                    "settings": null
+                  },
+                  {
+                    "content": {
+                      "contentType": "iconWithDescription",
+                      "id": "59a0e140-f34b-4207-8583-3058780f852b",
+                      "properties": {
+                        "icon": [
+                          {
+                            "focalPoint": null,
+                            "crops": [
+                              {
+                                "alias": "square",
+                                "width": 135,
+                                "height": 74,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "homepagemasthead",
+                                "width": 2136,
+                                "height": 1616,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "iconsmall",
+                                "width": 51,
+                                "height": 51,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "accreditationlogo",
+                                "width": 120,
+                                "height": 140,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheaddesktop",
+                                "width": 1680,
+                                "height": 416,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheadmobile",
+                                "width": 390,
+                                "height": 220,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "featureblockicon",
+                                "width": 50,
+                                "height": 50,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimageone",
+                                "width": 616,
+                                "height": 390,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimagetwo",
+                                "width": 616,
+                                "height": 316,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "teamMemberImage",
+                                "width": 290,
+                                "height": 290,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsCard",
+                                "width": 270,
+                                "height": 139,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsMasthead",
+                                "width": 1100,
+                                "height": 560,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseMastheadlogo",
+                                "width": 180,
+                                "height": 90,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseRighthandMasthead",
+                                "width": 610,
+                                "height": 345,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newArticleMasthead",
+                                "width": 4385,
+                                "height": 2255,
+                                "coordinates": null
+                              }
+                            ],
+                            "id": "1d7b62dc-84bd-4e96-9430-4fc263485424",
+                            "name": "Group Handshake",
+                            "mediaType": "umbracoMediaVectorGraphics",
+                            "url": "/media/3vrhwhn3/group-handshake.svg",
+                            "extension": "svg",
+                            "width": null,
+                            "height": null,
+                            "bytes": 797,
+                            "properties": {}
+                          }
+                        ],
+                        "title": "Trust & Integrity",
+                        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla mi lacinia orci venenatis porta eu sit amet erat."
+                      }
+                    },
+                    "settings": null
+                  },
+                  {
+                    "content": {
+                      "contentType": "iconWithDescription",
+                      "id": "c4d693e3-01cf-40ff-a494-93b3b959acfa",
+                      "properties": {
+                        "icon": [
+                          {
+                            "focalPoint": null,
+                            "crops": [
+                              {
+                                "alias": "square",
+                                "width": 135,
+                                "height": 74,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "homepagemasthead",
+                                "width": 2136,
+                                "height": 1616,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "iconsmall",
+                                "width": 51,
+                                "height": 51,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "accreditationlogo",
+                                "width": 120,
+                                "height": 140,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheaddesktop",
+                                "width": 1680,
+                                "height": 416,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "mastheadmobile",
+                                "width": 390,
+                                "height": 220,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "featureblockicon",
+                                "width": 50,
+                                "height": 50,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimageone",
+                                "width": 616,
+                                "height": 390,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "twocolumnimagetwo",
+                                "width": 616,
+                                "height": 316,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "teamMemberImage",
+                                "width": 290,
+                                "height": 290,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsCard",
+                                "width": 270,
+                                "height": 139,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newsMasthead",
+                                "width": 1100,
+                                "height": 560,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseMastheadlogo",
+                                "width": 180,
+                                "height": 90,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "courseRighthandMasthead",
+                                "width": 610,
+                                "height": 345,
+                                "coordinates": null
+                              },
+                              {
+                                "alias": "newArticleMasthead",
+                                "width": 4385,
+                                "height": 2255,
+                                "coordinates": null
+                              }
+                            ],
+                            "id": "63048b28-79a6-47c9-97cd-1104cfe7dfde",
+                            "name": "Family Legacy",
+                            "mediaType": "umbracoMediaVectorGraphics",
+                            "url": "/media/dgfbiy3g/family-legacy.svg",
+                            "extension": "svg",
+                            "width": null,
+                            "height": null,
+                            "bytes": 3256,
+                            "properties": {}
+                          }
+                        ],
+                        "title": "Family & Legacy",
+                        "description": "\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam fringilla mi lacinia orci venenatis porta eu sit amet erat."
+                      }
+                    },
+                    "settings": null
+                  }
+                ]
+              },
+              "imageOrVideo": [
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "506f3b3f-cb01-4945-aaa4-df6d5c107b30",
+                  "name": "An Introduction To Kentec Training",
+                  "mediaType": "umbracoMediaVideo",
+                  "url": "/media/c23h4uab/an-introduction-to-kentec-training.mp4",
+                  "extension": "mp4",
+                  "width": null,
+                  "height": null,
+                  "bytes": 21127469,
+                  "properties": {}
+                }
+              ]
+            }
+          },
+          "settings": null
+        },
+        {
+          "content": {
+            "contentType": "accreditationSlider",
+            "id": "0d07526e-b22d-4d02-8158-0601f6fcfe47",
+            "properties": {
+              "logos": [
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "bbb73017-52df-42e1-adc4-afba60d0f017",
+                  "name": "UKPN Logo 2025",
+                  "mediaType": "Image",
+                  "url": "/media/ceylpo45/ukpn-logo-2025.jpg",
+                  "extension": "jpg",
+                  "width": 800,
+                  "height": 390,
+                  "bytes": 964994,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "71a4a9a8-a5e4-4e94-b58e-0e3d313b5985",
+                  "name": "Multiplex Logo 2025",
+                  "mediaType": "Image",
+                  "url": "/media/v0uli2pe/multiplex-logo-2025.png",
+                  "extension": "png",
+                  "width": 1772,
+                  "height": 340,
+                  "bytes": 30171,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "734182b8-b63b-407b-9e47-6372aa24023c",
+                  "name": "Tate & Tonbridge Fencing Logo 2025",
+                  "mediaType": "Image",
+                  "url": "/media/x0bec2z1/tate-tonbridge-fencing-logo-2025.png",
+                  "extension": "png",
+                  "width": 1159,
+                  "height": 323,
+                  "bytes": 72183,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "e8af2f8e-d39b-4ded-b2f8-ee1257613984",
+                  "name": "CLM Logo Red",
+                  "mediaType": "Image",
+                  "url": "/media/raxl50e1/clm_logo_red.png",
+                  "extension": "png",
+                  "width": 284,
+                  "height": 135,
+                  "bytes": 10354,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "5eec2352-7331-41dd-8e1e-f857ea8f9cb4",
+                  "name": "GENCO June 2025 Logo",
+                  "mediaType": "Image",
+                  "url": "/media/kqrpyxrr/genco-june-2025-logo.png",
+                  "extension": "png",
+                  "width": 3368,
+                  "height": 1778,
+                  "bytes": 67732,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "ee704ca5-1eee-4884-ab94-2aca9e15d46b",
+                  "name": "Medway Norse Logo 2025",
+                  "mediaType": "Image",
+                  "url": "/media/unghb1xo/medway-norse-logo-2025.png",
+                  "extension": "png",
+                  "width": 672,
+                  "height": 504,
+                  "bytes": 215606,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "ec80f024-c763-4e30-83ae-6c24d4454b35",
+                  "name": "ALDI Logo 2017",
+                  "mediaType": "Image",
+                  "url": "/media/elyib1dd/aldi-logo-2017.png",
+                  "extension": "png",
+                  "width": 1200,
+                  "height": 1440,
+                  "bytes": 89734,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "94c0fafe-41ec-491f-a440-633c05d69da7",
+                  "name": "ATOM Group Logo 2025",
+                  "mediaType": "Image",
+                  "url": "/media/5d3mbfhm/atom-group-logo-2025.png",
+                  "extension": "png",
+                  "width": 11098,
+                  "height": 1818,
+                  "bytes": 385277,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "149c5954-a93a-4649-a91f-9c0455412338",
+                  "name": "Joseph Gallagher Logo 2025",
+                  "mediaType": "Image",
+                  "url": "/media/kjmjyfb0/joseph-gallagher-logo-2025.png",
+                  "extension": "png",
+                  "width": 4315,
+                  "height": 1175,
+                  "bytes": 96944,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "5c222bf0-e568-4d91-91af-fe83c1bd49c9",
+                  "name": "AW Rail Services Logo 2025 Square",
+                  "mediaType": "Image",
+                  "url": "/media/4yvdexdi/aw-rail-services-logo-2025-square.jpg",
+                  "extension": "jpg",
+                  "width": 2100,
+                  "height": 2100,
+                  "bytes": 1205891,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "971ba240-98e1-44c7-b711-727d33b7b08c",
+                  "name": "Littlewood Group Logo 2025",
+                  "mediaType": "Image",
+                  "url": "/media/i0rbxf5b/littlewood-group-logo-2025.png",
+                  "extension": "png",
+                  "width": 5543,
+                  "height": 2200,
+                  "bytes": 123006,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "0521e7bd-6b2a-4ca3-b7cd-afdebb6b12f6",
+                  "name": "Loxton Installations Logo 2025",
+                  "mediaType": "Image",
+                  "url": "/media/xptdcbjk/loxton-installations-logo-2025.jpg",
+                  "extension": "jpg",
+                  "width": 1417,
+                  "height": 1362,
+                  "bytes": 211766,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "a2102cc6-9314-4204-adde-64fa9e6b39c3",
+                  "name": "Oscar Acoustics Logo 2025",
+                  "mediaType": "Image",
+                  "url": "/media/yawbbiqu/oscar-acoustics-logo-2025.jpg",
+                  "extension": "jpg",
+                  "width": 2100,
+                  "height": 533,
+                  "bytes": 117923,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "12650040-c5a3-48d3-a703-07c76b90f47d",
+                  "name": "Chroma Vision Vector Logo",
+                  "mediaType": "Image",
+                  "url": "/media/iyagkevd/chroma-vision-vector-logo.png",
+                  "extension": "png",
+                  "width": 3559,
+                  "height": 2725,
+                  "bytes": 253854,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "7eb6b293-0737-4c23-bc22-a263a8c771fa",
+                  "name": "GS Moore Roofing Logo 2025",
+                  "mediaType": "Image",
+                  "url": "/media/swzlm5rx/gs-moore-roofing-logo-2025.png",
+                  "extension": "png",
+                  "width": 2510,
+                  "height": 827,
+                  "bytes": 52458,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "61fca7a4-ec9e-45bd-9894-2bdba9c8b6a2",
+                  "name": "Socotec Logo 2025",
+                  "mediaType": "Image",
+                  "url": "/media/uktpyym4/socotec-logo-2025.png",
+                  "extension": "png",
+                  "width": 2000,
+                  "height": 1867,
+                  "bytes": 60091,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "2228bc3a-ba88-4cde-9d1c-be6070e2024c",
+                  "name": "Baxall Construction Logo 2025",
+                  "mediaType": "Image",
+                  "url": "/media/hs4cqiui/baxall-construction-logo-2025.png",
+                  "extension": "png",
+                  "width": 2442,
+                  "height": 488,
+                  "bytes": 53608,
+                  "properties": {}
+                }
+              ],
+              "title": "Trusted by 1,000+ organisations!",
+              "text": null,
+              "textCenter": false
+            }
+          },
+          "settings": null
+        },
+        {
+          "content": {
+            "contentType": "latestNews",
+            "id": "3f2fdd3b-2d52-4919-ab45-85b385dea536",
+            "properties": {
+              "title": "The latest from Kentec Training",
+              "cTAText": "All news articles",
+              "cTAUrl": [
+                {
+                  "url": null,
+                  "queryString": null,
+                  "title": "News",
+                  "target": null,
+                  "destinationId": "be2e7184-739e-4d2f-8c19-4264531c08ba",
+                  "destinationType": "news",
+                  "route": {
+                    "path": "/news/",
+                    "startItem": {
+                      "id": "cd7a41f3-ff91-4ec3-b45a-14b58f305745",
+                      "path": "home"
+                    }
+                  },
+                  "linkType": "Content"
+                }
+              ]
+            }
+          },
+          "settings": null
+        },
+        {
+          "content": {
+            "contentType": "logos",
+            "id": "be2d34e9-8f11-49c6-83db-dcc24f890786",
+            "properties": {
+              "sliderLogos": [
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "ca7f5b80-a960-41d6-97ae-86199c698cc2",
+                  "name": "Pasma",
+                  "mediaType": "Image",
+                  "url": "/media/qznh5sta/pasma.webp",
+                  "extension": "png",
+                  "width": 111,
+                  "height": 28,
+                  "bytes": 2528,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "68f93934-6fdf-4dd2-ace9-f161e129c093",
+                  "name": "Ipaf",
+                  "mediaType": "umbracoMediaVectorGraphics",
+                  "url": "/media/au2ps0g5/ipaf.svg",
+                  "extension": "svg",
+                  "width": null,
+                  "height": null,
+                  "bytes": 479328,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "f65c3e2d-3941-42e7-80fa-6dce270ba1e8",
+                  "name": "Ladder Association",
+                  "mediaType": "umbracoMediaVectorGraphics",
+                  "url": "/media/dq5fz3sb/ladder-association.svg",
+                  "extension": "svg",
+                  "width": null,
+                  "height": null,
+                  "bytes": 111607,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "efeef85c-2038-4822-a259-9b13bf6a129e",
+                  "name": "Iosh",
+                  "mediaType": "umbracoMediaVectorGraphics",
+                  "url": "/media/nx2o31zy/iosh.svg",
+                  "extension": "svg",
+                  "width": null,
+                  "height": null,
+                  "bytes": 116818,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "b75de854-9dde-4399-bc39-25a6960b6df9",
+                  "name": "Nebosh",
+                  "mediaType": "umbracoMediaVectorGraphics",
+                  "url": "/media/mxuf1n44/nebosh.svg",
+                  "extension": "svg",
+                  "width": null,
+                  "height": null,
+                  "bytes": 30367,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "14f47aae-74ac-44fb-be8e-f0d6084f88d3",
+                  "name": "Npors",
+                  "mediaType": "umbracoMediaVectorGraphics",
+                  "url": "/media/t33piffm/npors.svg",
+                  "extension": "svg",
+                  "width": null,
+                  "height": null,
+                  "bytes": 59130,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "9804321b-bb95-46cb-b476-84d2c02269f6",
+                  "name": "Tetra",
+                  "mediaType": "umbracoMediaVectorGraphics",
+                  "url": "/media/fizajgev/tetra.svg",
+                  "extension": "svg",
+                  "width": null,
+                  "height": null,
+                  "bytes": 650084,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "fb6c754d-fcbd-4b0a-9909-7f6e4fb0104c",
+                  "name": "Ukata",
+                  "mediaType": "umbracoMediaVectorGraphics",
+                  "url": "/media/pr0hz433/ukata.svg",
+                  "extension": "svg",
+                  "width": null,
+                  "height": null,
+                  "bytes": 598542,
+                  "properties": {}
+                },
+                {
+                  "focalPoint": null,
+                  "crops": [],
+                  "id": "b622523b-9f31-49ec-89ac-7479ee2d5b04",
+                  "name": "Baf",
+                  "mediaType": "umbracoMediaVectorGraphics",
+                  "url": "/media/bjjcfnrr/baf.svg",
+                  "extension": "svg",
+                  "width": null,
+                  "height": null,
+                  "bytes": 17238,
+                  "properties": {}
+                }
+              ]
+            }
+          },
+          "settings": null
+        }
+      ]
+    }
+  },
+  "cultures": {}
+}
