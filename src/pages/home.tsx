@@ -1,10 +1,11 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
+import content_doc from '../docs/document';
 
 const Home = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Home</Text>
+      <Text style={styles.title}>{`${JSON.stringify(content_doc)}`}</Text>
     </View>
   );
 };
@@ -16,8 +17,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   title: {
-    fontSize: 24,
-    fontWeight: 'bold',
+    fontSize:5,
+    // fontWeight: 'bold',
   },
 });
 
