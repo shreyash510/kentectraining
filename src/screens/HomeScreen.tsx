@@ -5,10 +5,9 @@ import {
   ScrollView,
   StyleSheet,
   Image,
-  Dimensions,
+  ActivityIndicator,
 } from 'react-native';
 import type {
-  HomePageResponse,
   HomepageMasthead,
   CourseCard,
   CoursesSlider,
@@ -19,13 +18,30 @@ import type {
   Logos,
   PrimaryBlock,
 } from '../types';
-import homePageData from '../docs/document.json';
+import {useHomePageData} from '../hooks';
 
-const {width: SCREEN_WIDTH} = Dimensions.get('window');
 const BASE_URL = 'https://www.kentectraining.com';
 
 const HomeScreen: React.FC = () => {
-  const data = homePageData as HomePageResponse;
+  const {data, loading} = useHomePageData();
+
+  if (loading) {
+    return (
+      <View style={styles.loadingContainer}>
+        <ActivityIndicator size="large" color="#007AFF" />
+        <Text style={styles.loadingText}>Loading...</Text>
+      </View>
+    );
+  }
+
+  if (!data) {
+    return (
+      <View style={styles.loadingContainer}>
+        <Text>No data available</Text>
+      </View>
+    );
+  }
+
   const masthead = data.properties.banner.items[0]?.content as HomepageMasthead;
   const primaryBlocks = data.properties.primaryBlocks.items;
 
@@ -230,6 +246,17 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
+  },
+  loadingContainer: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#fff',
+  },
+  loadingText: {
+    marginTop: 12,
+    fontSize: 16,
+    color: '#666',
   },
   // Masthead Styles
   mastheadContainer: {
