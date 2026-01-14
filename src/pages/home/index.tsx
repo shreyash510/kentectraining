@@ -1,17 +1,25 @@
-import React, { useEffect, useState } from 'react';
-import { View, Text, StyleSheet, Button, ScrollView } from 'react-native';
-import content_doc from '../docs/document';
+import React, {useEffect, useState} from 'react';
+import {View, Text, StyleSheet, Button, ScrollView} from 'react-native';
+import {useAppSelector} from '../../redux/store';
+import {
+  selectContent,
+  selectContentLoading,
+} from '../../redux/slices/contentSlice';
 import {
   getDBConnection,
   createTable,
   insertItem,
   getAllItems,
   clearAllItems,
-} from '../services/database';
+} from '../../services/database';
 
 const Home = () => {
   const [savedData, setSavedData] = useState<any[]>([]);
   const [loading, setLoading] = useState(false);
+
+  // Get content data from Redux store
+  const contentData = useAppSelector(selectContent);
+  const contentLoading = useAppSelector(selectContentLoading);
 
   // Load data from SQLite on mount
   useEffect(() => {
@@ -34,7 +42,7 @@ const Home = () => {
     try {
       const db = await getDBConnection();
       await createTable(db);
-      await insertItem(db, content_doc);
+      await insertItem(db, contentData);
       await loadData();
     } catch (error) {
       console.error('Error saving data:', error);

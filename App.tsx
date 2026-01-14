@@ -1,18 +1,20 @@
 import React from 'react';
-import { StatusBar, Text, useColorScheme, View} from 'react-native';
-import { SafeAreaProvider } from 'react-native-safe-area-context';
+import {StatusBar, useColorScheme} from 'react-native';
+import {SafeAreaProvider} from 'react-native-safe-area-context';
+import {Provider} from 'react-redux';
+import {store} from './src/redux/store';
 import Root from './src/container/root';
-// import { View } from 'react-native/types_generated/index';
 
 function App() {
   const isDarkMode = useColorScheme() === 'dark';
 
   return (
-    <SafeAreaProvider>
-      <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
-      <Root />
-   
-    </SafeAreaProvider>
+    <Provider store={store}>
+      <SafeAreaProvider>
+        <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
+        <Root />
+      </SafeAreaProvider>
+    </Provider>
   );
 }
 
